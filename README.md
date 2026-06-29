@@ -24,12 +24,12 @@ A sleek and responsive **React.js** movie browsing application that lets users e
 ## ✨ Preview
 
 
-```md
+
 <img width="1808" height="891" alt="image" src="https://github.com/user-attachments/assets/91be17c2-3218-4a2a-93cb-f38b22d892a1" />
 <img width="775" height="732" alt="image" src="https://github.com/user-attachments/assets/290639e7-a1b0-4202-b5d0-de4c423fa26b" />
 <img width="1752" height="895" alt="image" src="https://github.com/user-attachments/assets/be7093b3-d10d-4468-8463-990ee6d2c31f" />
 
-````
+
 
 ---
 
@@ -145,24 +145,23 @@ npm run dev
 
 ### Home Page
 
-```
+
 <img width="1828" height="906" alt="image" src="https://github.com/user-attachments/assets/e43bc045-c92c-4a81-ad01-d6210fc6cc0b" />
 
-```
+
 
 ### Movie Details
 
-```
+
 <img width="761" height="731" alt="image" src="https://github.com/user-attachments/assets/d361fe3c-166a-4dd7-84bf-31fe40b12f56" />
 
-```
+
 
 ### Favorites
 
-```
+
 <img width="1637" height="883" alt="image" src="https://github.com/user-attachments/assets/7e7bd54e-8cdc-4e56-820b-8fbe8dabb640" />
 
-```
 
 ---
 
