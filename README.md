@@ -15,11 +15,7 @@ A sleek and responsive **React.js** movie browsing application that lets users e
 
 ---
 
-### 🌐 Live Demo
 
-👉 **https://your-demo-link.vercel.app**
-
----
 
 ## ✨ Preview
 
