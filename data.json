@@ -1,0 +1,513 @@
+[
+  {
+    "id": 1,
+    "title": "Iron Man",
+    "runtime": "126 min",
+    "release_date": "2008-05-02",
+    "description": "After being captured by terrorists, billionaire Tony Stark builds a high-tech suit of armor and becomes the superhero Iron Man.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.9,
+    "director": "Jon Favreau",
+    "actors": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Jeff Bridges",
+      "Terrence Howard"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Incredible Hulk",
+    "runtime": "112 min",
+    "release_date": "2008-06-13",
+    "description": "Scientist Bruce Banner searches for a cure while trying to escape the military and control the monster within.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.6,
+    "director": "Louis Leterrier",
+    "actors": ["Edward Norton", "Liv Tyler", "Tim Roth", "William Hurt"],
+    "poster": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Iron Man 2",
+    "runtime": "124 min",
+    "release_date": "2010-05-07",
+    "description": "Tony Stark faces pressure from the government while battling a dangerous new enemy armed with advanced technology.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.9,
+    "director": "Jon Favreau",
+    "actors": [
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Don Cheadle",
+      "Mickey Rourke"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Thor",
+    "runtime": "115 min",
+    "release_date": "2011-05-06",
+    "description": "The mighty Thor is banished to Earth, where he learns humility and becomes worthy of his powers once again.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.0,
+    "director": "Kenneth Branagh",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Anthony Hopkins"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Captain America: The First Avenger",
+    "runtime": "124 min",
+    "release_date": "2011-07-22",
+    "description": "Steve Rogers transforms into Captain America and battles Hydra during World War II.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.9,
+    "director": "Joe Johnston",
+    "actors": [
+      "Chris Evans",
+      "Hayley Atwell",
+      "Sebastian Stan",
+      "Tommy Lee Jones"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Avengers",
+    "runtime": "143 min",
+    "release_date": "2012-05-04",
+    "description": "Earth's mightiest heroes unite to stop Loki and an alien invasion led by the Chitauri.",
+    "language": "English",
+    "country": "United States",
+    "rating": 8.0,
+    "director": "Joss Whedon",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Iron Man 3",
+    "runtime": "130 min",
+    "release_date": "2013-05-03",
+    "description": "Tony Stark confronts a mysterious terrorist known as the Mandarin while struggling with PTSD after the Battle of New York.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.1,
+    "director": "Shane Black",
+    "actors": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Guy Pearce",
+      "Ben Kingsley"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Thor: The Dark World",
+    "runtime": "112 min",
+    "release_date": "2013-11-08",
+    "description": "Thor joins forces with Loki to stop the Dark Elves from plunging the universe into darkness.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.8,
+    "director": "Alan Taylor",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Anthony Hopkins"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Captain America: The Winter Soldier",
+    "runtime": "136 min",
+    "release_date": "2014-04-04",
+    "description": "Captain America uncovers a conspiracy within S.H.I.E.L.D. while facing the mysterious Winter Soldier.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.8,
+    "director": "Anthony Russo, Joe Russo",
+    "actors": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Samuel L. Jackson"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Guardians of the Galaxy",
+    "runtime": "121 min",
+    "release_date": "2014-08-01",
+    "description": "A group of intergalactic criminals joins forces to save the galaxy from the powerful Ronan the Accuser.",
+    "language": "English",
+    "country": "United States",
+    "rating": 8.0,
+    "director": "James Gunn",
+    "actors": ["Chris Pratt", "Zoe Saldaña", "Dave Bautista", "Bradley Cooper"],
+    "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Avengers: Age of Ultron",
+    "runtime": "141 min",
+    "release_date": "2015-05-01",
+    "description": "When Tony Stark's peacekeeping AI Ultron turns against humanity, the Avengers reunite to stop him.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.3,
+    "director": "Joss Whedon",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Ant-Man",
+    "runtime": "117 min",
+    "release_date": "2015-07-17",
+    "description": "Master thief Scott Lang becomes Ant-Man and must use his shrinking abilities to stop a dangerous technology from falling into the wrong hands.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.3,
+    "director": "Peyton Reed",
+    "actors": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rS97hUJ1otKTTripGwQ0ujbuIri.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Captain America: Civil War",
+    "runtime": "147 min",
+    "release_date": "2016-05-06",
+    "description": "Political pressure divides the Avengers into opposing factions led by Captain America and Iron Man.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.8,
+    "director": "Anthony Russo, Joe Russo",
+    "actors": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Chadwick Boseman"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Doctor Strange",
+    "runtime": "115 min",
+    "release_date": "2016-11-04",
+    "description": "A brilliant neurosurgeon discovers the mystical arts after a life-changing accident.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.5,
+    "director": "Scott Derrickson",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Tilda Swinton"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Guardians of the Galaxy Vol. 2",
+    "runtime": "136 min",
+    "release_date": "2017-05-05",
+    "description": "The Guardians continue their adventures while Peter Quill uncovers the truth about his father.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.6,
+    "director": "James Gunn",
+    "actors": ["Chris Pratt", "Zoe Saldaña", "Dave Bautista", "Kurt Russell"],
+    "poster": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Spider-Man: Homecoming",
+    "runtime": "133 min",
+    "release_date": "2017-07-07",
+    "description": "Peter Parker balances high school life with being Spider-Man while facing the Vulture.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.4,
+    "director": "Jon Watts",
+    "actors": ["Tom Holland", "Michael Keaton", "Zendaya", "Robert Downey Jr."],
+    "poster": "https://image.tmdb.org/t/p/w500/5x00yQZ3Mcz7duwMKc9GE8oZjFf.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Thor: Ragnarok",
+    "runtime": "130 min",
+    "release_date": "2017-11-03",
+    "description": "Thor must escape the planet Sakaar and stop Hela from destroying Asgard.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.9,
+    "director": "Taika Waititi",
+    "actors": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett",
+      "Mark Ruffalo"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Black Panther",
+    "runtime": "134 min",
+    "release_date": "2018-02-16",
+    "description": "T'Challa returns to Wakanda to take the throne but faces a powerful challenger with global ambitions.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.3,
+    "director": "Ryan Coogler",
+    "actors": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Avengers: Infinity War",
+    "runtime": "149 min",
+    "release_date": "2018-04-27",
+    "description": "The Avengers and their allies unite to stop Thanos from collecting all six Infinity Stones.",
+    "language": "English",
+    "country": "United States",
+    "rating": 8.4,
+    "director": "Anthony Russo, Joe Russo",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Chris Evans",
+      "Josh Brolin"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Ant-Man and the Wasp",
+    "runtime": "118 min",
+    "release_date": "2018-07-06",
+    "description": "Scott Lang teams up with Hope van Dyne to uncover secrets from the quantum realm.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.0,
+    "director": "Peyton Reed",
+    "actors": [
+      "Paul Rudd",
+      "Evangeline Lilly",
+      "Michael Douglas",
+      "Michelle Pfeiffer"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg"
+  },
+
+  {
+    "id": 21,
+    "title": "Captain Marvel",
+    "runtime": "124 min",
+    "release_date": "2019-03-08",
+    "description": "Carol Danvers becomes one of the universe's most powerful heroes after discovering her true identity during an intergalactic war.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.8,
+    "director": "Anna Boden, Ryan Fleck",
+    "actors": [
+      "Brie Larson",
+      "Samuel L. Jackson",
+      "Ben Mendelsohn",
+      "Jude Law"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Avengers: Endgame",
+    "runtime": "181 min",
+    "release_date": "2019-04-26",
+    "description": "The surviving Avengers assemble one final time to reverse Thanos' actions and restore balance to the universe.",
+    "language": "English",
+    "country": "United States",
+    "rating": 8.4,
+    "director": "Anthony Russo, Joe Russo",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Spider-Man: Far From Home",
+    "runtime": "129 min",
+    "release_date": "2019-07-02",
+    "description": "Peter Parker embarks on a European vacation that quickly turns into a mission to stop elemental creatures.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.4,
+    "director": "Jon Watts",
+    "actors": [
+      "Tom Holland",
+      "Jake Gyllenhaal",
+      "Zendaya",
+      "Samuel L. Jackson"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Black Widow",
+    "runtime": "134 min",
+    "release_date": "2021-07-09",
+    "description": "Natasha Romanoff confronts the darker parts of her past while facing a dangerous conspiracy.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.7,
+    "director": "Cate Shortland",
+    "actors": [
+      "Scarlett Johansson",
+      "Florence Pugh",
+      "David Harbour",
+      "Rachel Weisz"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "runtime": "132 min",
+    "release_date": "2021-09-03",
+    "description": "Martial artist Shang-Chi is drawn into the mysterious Ten Rings organization led by his father.",
+    "language": "English",
+    "country": "United States",
+    "rating": 7.4,
+    "director": "Destin Daniel Cretton",
+    "actors": ["Simu Liu", "Awkwafina", "Tony Leung", "Michelle Yeoh"],
+    "poster": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Eternals",
+    "runtime": "156 min",
+    "release_date": "2021-11-05",
+    "description": "An immortal race emerges from hiding to protect humanity from the Deviants.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.3,
+    "director": "Chloé Zhao",
+    "actors": ["Gemma Chan", "Richard Madden", "Angelina Jolie", "Salma Hayek"],
+    "poster": "https://image.tmdb.org/t/p/w500/b6qUu00iIIkXX13szFy7d0CyNcg.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Spider-Man: No Way Home",
+    "runtime": "148 min",
+    "release_date": "2021-12-17",
+    "description": "Peter Parker seeks Doctor Strange's help after his identity is revealed, opening the multiverse.",
+    "language": "English",
+    "country": "United States",
+    "rating": 8.2,
+    "director": "Jon Watts",
+    "actors": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "runtime": "126 min",
+    "release_date": "2022-05-06",
+    "description": "Doctor Strange travels through the multiverse while facing powerful new enemies and impossible choices.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.9,
+    "director": "Sam Raimi",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Elizabeth Olsen",
+      "Xochitl Gomez",
+      "Benedict Wong"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Thor: Love and Thunder",
+    "runtime": "119 min",
+    "release_date": "2022-07-08",
+    "description": "Thor teams up with old friends and allies to stop Gorr the God Butcher from eliminating all gods.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.3,
+    "director": "Taika Waititi",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Christian Bale",
+      "Tessa Thompson"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Black Panther: Wakanda Forever",
+    "runtime": "161 min",
+    "release_date": "2022-11-11",
+    "description": "Following King T'Challa's death, Wakanda faces new global threats while honoring its legacy.",
+    "language": "English",
+    "country": "United States",
+    "rating": 6.7,
+    "director": "Ryan Coogler",
+    "actors": [
+      "Letitia Wright",
+      "Angela Bassett",
+      "Lupita Nyong'o",
+      "Tenoch Huerta"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+  }
+]
